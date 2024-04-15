@@ -25,7 +25,7 @@ We are going to use the tool made by [@mushkr](https://github.com/munshkr/flok)
 
 We can code, edit and share [together](https://flok.cc/s/wispy-violet-tiger-c5715ef3#targets=hydra&c0=b3NjKCgoKT0%252BYS5mZnRbMF0qNDAwKSwyLC4xKS5vdXQoKQ%253D%253D) 
 
-## Some people that could be help you,...
+## Some people that could be help us,...
 
 * [Olivia Jack]()
 * [Nahoto Hieda](https://www.youtube.com/@NaotoHieda)
