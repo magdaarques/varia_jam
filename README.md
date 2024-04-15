@@ -5,7 +5,9 @@
 ## What language  are we going to visual code?
 
 Visual code with [Hydra](https://hydra.ojack.xyz/docs/) is a live code-able video synth and coding environment that runs directly in the browser.
-The creator is Olivia Jack you can listen [podcast.Artist and hackers. Ep 10. Art tools: Live coding with Hydra](https://www.artistsandhackers.org/hydra) talking about the project.
+
+Olivia Jack is the creator. You can listen [podcast.Artist and hackers. Ep 10. Art tools: Live coding with Hydra](https://www.artistsandhackers.org/hydra) talking about the project.
+
 We said that hydra is our queer-livevisual-coding.
 
 ## What Hydra can do?
