@@ -21,7 +21,7 @@ We said that hydra is our queer-livevisual-coding.
 
 ## How we are going to share our live-jam
 
-We are going to use the tool made by [@mushkr](https://github.com/munshkr/flok)
+We are going to use the collaborative online editor made by [@mushkr](https://github.com/munshkr/flok)
 
 We can code, edit and share [together](https://flok.cc/s/wispy-violet-tiger-c5715ef3#targets=hydra&c0=b3NjKCgoKT0%252BYS5mZnRbMF0qNDAwKSwyLC4xKS5vdXQoKQ%253D%253D) 
 
