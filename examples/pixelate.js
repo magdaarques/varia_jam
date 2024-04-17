@@ -1,0 +1,5 @@
+shape([4,3,999]).scrollY(1,[-.1,.1]).out(o0)
+shape([4,3,999]).scrollX(1,[.1,-.1]).out(o1)
+src(o0).diff(o1,.1).modulate(osc(20),.01).out(o2)
+src(o2).modulateScale(o3,.15,1.1).mult(o3,.9).contrast(1.2).modulate(o2,.01).pixelate(20,10).out(o3)
+render(o3)
