@@ -44,6 +44,7 @@ We can code, edit and share [together](https://flok.cc/s/wispy-violet-tiger-c571
 Examples are running in [https://hydra.ojack.xyz/](https://hydra.ojack.xyz/)
 
 ### Sources
+- [shape](https://github.com/magdaarques/varia_jam/blob/main/examples/shape.js)
 - [video input](https://github.com/magdaarques/varia_jam/blob/main/examples/videoinput.js)
 ### Interactions
 - [mouse](https://github.com/magdaarques/varia_jam/blob/main/examples/mousexy.js)
