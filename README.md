@@ -58,10 +58,10 @@ Examples are running in [https://hydra.ojack.xyz/](https://hydra.ojack.xyz/)
 ## Geometry
 - [rotate](https://github.com/magdaarques/varia_jam/blob/main/examples/rotate.js)
 - [scale](https://github.com/magdaarques/varia_jam/blob/main/examples/scale.js)
-- [repeat]()
-- [scroll]()
-- [kaleid]()
-- [pixelate]()
+- [repeat](https://github.com/magdaarques/varia_jam/blob/main/examples/repeat.js)
+- [scroll](https://github.com/magdaarques/varia_jam/blob/main/examples/scroll.js)
+- [kaleid](https://github.com/magdaarques/varia_jam/blob/main/examples/kaleid.js)
+- [pixelate](https://github.com/magdaarques/varia_jam/blob/main/examples/pixelate.js)
 
 ### Modulate
 - [modulateHue](https://github.com/magdaarques/varia_jam/blob/main/examples/initcam.js)
