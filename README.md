@@ -37,12 +37,12 @@ We can code, edit and share [together](https://flok.cc/s/wispy-violet-tiger-c571
 
 * [hydra functions](https://hydra.ojack.xyz/docs/docs/reference/)
 * [video: tutorial talking about all functions](https://www.youtube.com/watch?v=OlAnsjxhAO0)
+* [List of all variables](https://github.com/ojack/hydra/blob/master/docs/funcs.md)
 
 ## Examples
 
 Examples are running in [https://hydra.ojack.xyz/](https://hydra.ojack.xyz/)
 
-[List of all variables](https://github.com/ojack/hydra/blob/master/docs/funcs.md)
 ### Sources
 - [video input](https://github.com/magdaarques/varia_jam/blob/main/examples/videoinput.js)
 ### Interactions
