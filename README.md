@@ -1,6 +1,6 @@
 # varia_jam
 
- Helpful issues to learn coding together in Varia
+ Helpful issues to learn coding together hydra in Varia.zone
 
 ## What language  are we going to visual code?
 
