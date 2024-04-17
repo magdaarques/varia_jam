@@ -45,8 +45,20 @@ Examples are running in [https://hydra.ojack.xyz/](https://hydra.ojack.xyz/)
 
 ### Sources
 - [shape](https://github.com/magdaarques/varia_jam/blob/main/examples/shape.js)
-- [gradient]()
+- [gradient](https://github.com/magdaarques/varia_jam/blob/main/examples/gradient.js)
+- [solid](https://github.com/magdaarques/varia_jam/blob/main/examples/solid.js)
+- [Feedback_shape_gradient_solid](https://github.com/magdaarques/varia_jam/blob/main/examples/feedback_solid_gradient_shape.js)
+
+### Externar sources
 - [video input](https://github.com/magdaarques/varia_jam/blob/main/examples/videoinput.js)
+- [camera_input](https://github.com/magdaarques/varia_jam/blob/main/examples/initcam.js)
+- [image_input]()
+
+### Modulate
+- [modulate_hue](https://github.com/magdaarques/varia_jam/blob/main/examples/initcam.js)
+- [modulate_repeat](https://github.com/magdaarques/varia_jam/blob/main/examples/modulate_repeat.js)
+- [modulate_kaleid](https://github.com/magdaarques/varia_jam/blob/main/examples/modulate_kaleid.js)
+  
 ### Interactions
 - [mouse](https://github.com/magdaarques/varia_jam/blob/main/examples/mousexy.js)
 - [midi] 
