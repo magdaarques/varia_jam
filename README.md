@@ -52,7 +52,8 @@ Examples are running in [https://hydra.ojack.xyz/](https://hydra.ojack.xyz/)
 ### External sources
 - [video input](https://github.com/magdaarques/varia_jam/blob/main/examples/videoinput.js)
 - [camera_input](https://github.com/magdaarques/varia_jam/blob/main/examples/initcam.js)
-- [image_input]()
+- [image_input](https://github.com/magdaarques/varia_jam/blob/main/examples/initImage.js)
+- [screen_input](https://github.com/magdaarques/varia_jam/blob/main/examples/initScreen.js)
 
 ### Modulate
 - [modulateHue](https://github.com/magdaarques/varia_jam/blob/main/examples/initcam.js)
