@@ -72,6 +72,31 @@ Examples are running in [https://hydra.ojack.xyz/](https://hydra.ojack.xyz/)
 - [modulateRotate](https://github.com/magdaarques/varia_jam/blob/main/examples/modulateRotate.js)
 - [modulatePixelate](https://github.com/magdaarques/varia_jam/blob/main/examples/modulatePixelate.js)
 - [modulate](https://github.com/magdaarques/varia_jam/blob/main/examples/modulate.js)
+
+### Color
+- [posterice]()
+- [shift]()
+- [invert]()
+- [contrast]()
+- [brightness]()
+- [luma]()
+- [thresh]()
+- [color]()
+- [saturate]()
+- [hue]()
+- [colorama]()
+- [r]()
+- [g]()
+- [b]()
+  
+### Blend
+- [add]()
+- [sub]()
+- [layer]()
+- [blend]()
+- [mult]()
+- [diff]()
+- [mask]()
   
 ### Interactions
 - [mouse](https://github.com/magdaarques/varia_jam/blob/main/examples/mousexy.js)
