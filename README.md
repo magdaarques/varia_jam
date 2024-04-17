@@ -45,7 +45,7 @@ Examples are running in [https://hydra.ojack.xyz/](https://hydra.ojack.xyz/)
 ### Sources
 - [video input](https://github.com/magdaarques/varia_jam/blob/main/examples/videoinput.js)
 ### Interactions
-- [mouse]
+- [mouse](https://github.com/magdaarques/varia_jam/blob/main/examples/mousexy.js)
 - [midi] 
 - [keypressed](https://github.com/magdaarques/varia_jam/blob/main/examples/keypressed.js)
 
