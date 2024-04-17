@@ -49,7 +49,7 @@ Examples are running in [https://hydra.ojack.xyz/](https://hydra.ojack.xyz/)
 - [solid](https://github.com/magdaarques/varia_jam/blob/main/examples/solid.js)
 - [Feedback_shape_gradient_solid](https://github.com/magdaarques/varia_jam/blob/main/examples/feedback_solid_gradient_shape.js)
 
-### Externar sources
+### External sources
 - [video input](https://github.com/magdaarques/varia_jam/blob/main/examples/videoinput.js)
 - [camera_input](https://github.com/magdaarques/varia_jam/blob/main/examples/initcam.js)
 - [image_input]()
@@ -59,7 +59,10 @@ Examples are running in [https://hydra.ojack.xyz/](https://hydra.ojack.xyz/)
 - [modulateRepeat](https://github.com/magdaarques/varia_jam/blob/main/examples/modulate_repeat.js)
 - [modulateKaleid](https://github.com/magdaarques/varia_jam/blob/main/examples/modulate_kaleid.js)
 - [modulateScroll](https://github.com/magdaarques/varia_jam/blob/main/examples/modulateScroll.js)
-- 
+- [modulateScale](https://github.com/magdaarques/varia_jam/blob/main/examples/modulateScale.js)
+- [modulateRotate](https://github.com/magdaarques/varia_jam/blob/main/examples/modulateRotate.js)
+- [modulatePixelate](https://github.com/magdaarques/varia_jam/blob/main/examples/modulatePixelate.js)
+- [modulate](https://github.com/magdaarques/varia_jam/blob/main/examples/modulate.js)
   
 ### Interactions
 - [mouse](https://github.com/magdaarques/varia_jam/blob/main/examples/mousexy.js)
