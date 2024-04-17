@@ -42,5 +42,10 @@ We can code, edit and share [together](https://flok.cc/s/wispy-violet-tiger-c571
 
 Examples are running in [https://hydra.ojack.xyz/](https://hydra.ojack.xyz/)
 
-
+### Sources
+- [video input]
+### Interactions
+- [mouse]
+- [midi] 
+- [keypressed](https://github.com/magdaarques/varia_jam/blob/main/examples/keypressed.js)
 
