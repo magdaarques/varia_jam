@@ -42,6 +42,7 @@ We can code, edit and share [together](https://flok.cc/s/wispy-violet-tiger-c571
 
 Examples are running in [https://hydra.ojack.xyz/](https://hydra.ojack.xyz/)
 
+[List variables and functions](https://github.com/ojack/hydra/blob/master/docs/funcs.md)
 ### Sources
 - [video input](https://github.com/magdaarques/varia_jam/blob/main/examples/videoinput.js)
 ### Interactions
