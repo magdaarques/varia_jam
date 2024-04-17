@@ -55,7 +55,7 @@ Examples are running in [https://hydra.ojack.xyz/](https://hydra.ojack.xyz/)
 - [image_input](https://github.com/magdaarques/varia_jam/blob/main/examples/initImage.js)
 - [screen_input](https://github.com/magdaarques/varia_jam/blob/main/examples/initScreen.js)
 
-## Geometry
+### Geometry
 - [rotate](https://github.com/magdaarques/varia_jam/blob/main/examples/rotate.js)
 - [scale](https://github.com/magdaarques/varia_jam/blob/main/examples/scale.js)
 - [repeat](https://github.com/magdaarques/varia_jam/blob/main/examples/repeat.js)
