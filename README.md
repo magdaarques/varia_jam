@@ -101,11 +101,12 @@ Examples are running in [https://hydra.ojack.xyz/](https://hydra.ojack.xyz/)
 - [diff]()
 - [mask]()
 
-## Extending hydra
-- [p5js+text](https://github.com/magdaarques/varia_jam/blob/main/examples/p5_typography.js)
-  
 ### Interactions
 - [mouse](https://github.com/magdaarques/varia_jam/blob/main/examples/mousexy.js)
 - [midi] 
 - [keypressed](https://github.com/magdaarques/varia_jam/blob/main/examples/keypressed.js)
+
+## Extending hydra
+- [p5js+text](https://github.com/magdaarques/varia_jam/blob/main/examples/p5_typography.js)
+  
 
