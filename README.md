@@ -48,7 +48,7 @@ Examples are running in [https://hydra.ojack.xyz/](https://hydra.ojack.xyz/)
 - [gradient](https://github.com/magdaarques/varia_jam/blob/main/examples/gradient.js)
 - [solid](https://github.com/magdaarques/varia_jam/blob/main/examples/solid.js)
 - [osc](https://github.com/magdaarques/varia_jam/blob/main/examples/osc.js)
-- [noise]()
+- [noise](https://github.com/magdaarques/varia_jam/blob/main/examples/noise.js)
 - [voronoi]()
 - [Feedback_shape_gradient_solid](https://github.com/magdaarques/varia_jam/blob/main/examples/feedback_solid_gradient_shape.js)
 
