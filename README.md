@@ -55,9 +55,11 @@ Examples are running in [https://hydra.ojack.xyz/](https://hydra.ojack.xyz/)
 - [image_input]()
 
 ### Modulate
-- [modulate_hue](https://github.com/magdaarques/varia_jam/blob/main/examples/initcam.js)
-- [modulate_repeat](https://github.com/magdaarques/varia_jam/blob/main/examples/modulate_repeat.js)
-- [modulate_kaleid](https://github.com/magdaarques/varia_jam/blob/main/examples/modulate_kaleid.js)
+- [modulateHue](https://github.com/magdaarques/varia_jam/blob/main/examples/initcam.js)
+- [modulateRepeat](https://github.com/magdaarques/varia_jam/blob/main/examples/modulate_repeat.js)
+- [modulateKaleid](https://github.com/magdaarques/varia_jam/blob/main/examples/modulate_kaleid.js)
+- [modulateScroll](https://github.com/magdaarques/varia_jam/blob/main/examples/modulateScroll.js)
+- 
   
 ### Interactions
 - [mouse](https://github.com/magdaarques/varia_jam/blob/main/examples/mousexy.js)
