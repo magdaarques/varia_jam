@@ -35,9 +35,9 @@ We can code, edit and share [together](https://flok.cc/s/wispy-violet-tiger-c571
 
 ## Helpful documentation
 
-* [hydra functions](https://hydra.ojack.xyz/docs/docs/reference/)
+* [hydra functions with visual examples](https://hydra.ojack.xyz/docs/docs/reference/)
 * [video: tutorial talking about all functions](https://www.youtube.com/watch?v=OlAnsjxhAO0)
-* [List of all variables](https://github.com/ojack/hydra/blob/master/docs/funcs.md)
+* [List of all available functions](https://github.com/ojack/hydra/blob/master/docs/funcs.md)
 
 ## Examples
 
