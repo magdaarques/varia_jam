@@ -77,7 +77,7 @@ Examples are running in [https://hydra.ojack.xyz/](https://hydra.ojack.xyz/)
 - [modulate](https://github.com/magdaarques/varia_jam/blob/main/examples/modulate.js)
 
 ### Color
-- [posterice]()
+- [posterize]()
 - [shift]()
 - [invert]()
 - [contrast]()
