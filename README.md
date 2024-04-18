@@ -86,24 +86,24 @@ Examples are running in [https://hydra.ojack.xyz/](https://hydra.ojack.xyz/)
 - [thresh](examples/thresh.js)
 - [color](examples/color.js)
 - [saturate](examples/saturate.js)
-- [hue]()
+- [hue](examples/hue.js)
 - [colorama]()
 - [r]()
 - [g]()
 - [b]()
   
 ### Blend
-- [add]()
-- [sub]()
+- [add](examples/add.js)
+- [sub](examples/sub.js)
 - [layer](examples/layer.js)
-- [blend]()
+- [blend](examples/bleend.js)
 - [mult](examples/mult.js)
 - [diff](examples/diff.js)
 - [mask](examples/mask.js)
 
 ### Interactions
 - [mouse](https://github.com/magdaarques/varia_jam/blob/main/examples/mousexy.js)
-- [midi] 
+- [midi]()
 - [keypressed](https://github.com/magdaarques/varia_jam/blob/main/examples/keypressed.js)
 
 ## Extending hydra
