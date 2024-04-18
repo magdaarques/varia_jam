@@ -1,3 +1,9 @@
-// Type some code on a new line (such as "osc().out()"), and press CTRL+shift+enter
 s0.initImage("https://upload.wikimedia.org/wikipedia/commons/0/0c/Stop_the_genocide%2C_Free_Palestine_023_Mielenosoitus_palestiinalaisten_tueksi_%2853274234547%29.jpg")
-src(s0).blend(src(o0),.4).modulate(o0,.02).hue(()=>Math.cos(time)).scale(1.08,1).contrast(2).posterize(4).out(o0)
+src(s0).invert().thresh().add(solid(0,.51,0)).out(o0)
+src(s0).invert().thresh().add(solid(1,0,0)).out(o1)
+src(s0).invert().thresh().add(solid(0,0,0)).out(o2)
+src(o0)
+  .blend(src(o1).rotate(()=>(time%360)/3)).modulateScrollY(o1,1,.1)
+  .add(src(o0).scrollX(.001,.04),.21)
+  .mult(src(o2).invert([0,1].smooth()),.9).out(o3)
+render()
