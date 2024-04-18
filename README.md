@@ -87,7 +87,7 @@ Examples are running in [https://hydra.ojack.xyz/](https://hydra.ojack.xyz/)
 - [color](examples/color.js)
 - [saturate](examples/saturate.js)
 - [hue](examples/hue.js)
-- [colorama]()
+- [colorama](examples/colorama.js)
 - [r]()
 - [g]()
 - [b]()
@@ -103,7 +103,7 @@ Examples are running in [https://hydra.ojack.xyz/](https://hydra.ojack.xyz/)
 
 ### Interactions
 - [mouse](https://github.com/magdaarques/varia_jam/blob/main/examples/mousexy.js)
-- [midi]()
+- [midi]()| [documentation](https://github.com/ojack/hydra-standalone/blob/master/docs/midi.md)
 - [keypressed](https://github.com/magdaarques/varia_jam/blob/main/examples/keypressed.js)
 
 ## Extending hydra
