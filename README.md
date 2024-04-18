@@ -88,9 +88,9 @@ Examples are running in [https://hydra.ojack.xyz/](https://hydra.ojack.xyz/)
 - [saturate](examples/saturate.js)
 - [hue](examples/hue.js)
 - [colorama](examples/colorama.js)
-- [r]()
-- [g]()
-- [b]()
+- [r](examples/r.js)
+- [g](examples/g.js)
+- [b](examples/b.js)
   
 ### Blend
 - [add](examples/add.js)
