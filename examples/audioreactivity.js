@@ -1,0 +1,5 @@
+s0.initImage('https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Noordam-delegates-1915.jpg/600px-Noordam-delegates-1915.jpg')
+osc(()=>a.fft[0],()=>a.fft[1]/500,3).out(o0)
+src(s0).out(o1)
+src(o1).add(src(o2).invert([1,0]),.8).hue(()=>a.fft[0]*100).diff(o0,.8).colorama(.001,.2).out(o2)
+render()
