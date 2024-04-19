@@ -102,7 +102,7 @@ Examples are running in [https://hydra.ojack.xyz/](https://hydra.ojack.xyz/)
 - [mask](examples/mask.js)
 
 ### Interactions
-- [audio-reactivity](examples/audioreactivity.js)
+- [audio-reactivity](examples/audioreactivity.js) | [documentation](https://hydra.ojack.xyz/docs/docs/learning/sequencing-and-interactivity/audio/#:~:text=The%20fft%5B%20%5D%20will%20return%20a,the%20value%20will%20never%20change.)
 - [mouse](https://github.com/magdaarques/varia_jam/blob/main/examples/mousexy.js)
 - [midi]()| [documentation](https://github.com/ojack/hydra-standalone/blob/master/docs/midi.md)
 - [keypressed](https://github.com/magdaarques/varia_jam/blob/main/examples/keypressed.js)
